@@ -58,8 +58,6 @@ For more information on VM instances, see [Linux VM sizes](../virtual-machines/l
 ### Regions
 Available in all public Azure regions as well as Azure Government Clouds.
 
-### Network interface creation 
-Accelerated networking can only be enabled for a new NIC. It cannot be enabled for an existing NIC.
 ### Enabling Accelerated Networking on a running VM
 A supported VM size without accelerated networking enabled can only have the feature enabled when it is stopped and deallocated.  
 ### Deployment through Azure Resource Manager
