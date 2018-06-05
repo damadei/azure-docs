@@ -24,7 +24,7 @@ Browse to your AKS cluster, select an AKS node (virtual machine), and select **R
 
 ![AKS VM with reset password button](media/aks-ssh/reset-password.png)
 
-Select **Reset SSH public key**, enter the AKS cluster username, which is **azueruser** by default, and copy in an SSH public key. Select **Update** when complete.
+Select **Reset SSH public key**, enter the AKS cluster username, which is **azureuser** by default, and copy in an SSH public key. Select **Update** when complete.
 
 ![AKS portal VM with reset password button](media/aks-ssh/reset-password-2.png)
 
